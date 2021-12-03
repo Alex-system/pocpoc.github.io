@@ -15,7 +15,7 @@ site-image: /WhatATheme/assets/images/logo.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: https://github.com/Alex-system/pocpoc.github.io/blob/master/assets/images/logo.png?raw=true
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://github.com/Alex-system/pocpoc.github.io/blob/master/assets/images/drone.jpg?raw=true&auto=compress&cs=tinysrgb&dpr=2&h=650&w=940

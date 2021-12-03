@@ -1,71 +1,45 @@
 ---
 title: Drone
 layout: post
-post-image: https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
+post-image: https://github.com/Alex-system/pocpoc.github.io/blob/master/assets/images/comp-IMG_7663.jpg?raw=true
+description: A very capable open source drone plateform
 tags:
-- sample
-- post
-- test
 ---
 
-This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
-For more information about writing markdown you can checkout the following markdown cheatsheets:
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
-* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+Our latest drone platform takes inspiration from modern aviation systems. Offering up to 40 minutes of flight time, advanced Al capabilities combining intelligence with high-performance, strong redundancy and reliability. Very easy to use for any professional in any weather conditions.
+
+![drone.jpg](https://github.com/Alex-system/pocpoc.github.io/blob/master/assets/images/drone.jpg?raw=true)
 
 ---
 
-# This is the h1 text
-## This is the h2 text
-### This is the h3 text
-#### This is the h4 text
-##### This is the h5 text
-###### This is the h6 text
+## Opensource plateform prototype
 
-**Bold Text in the post will look like:**<br>
-**This text is Bold**
+- Range 🚁: 20 km
+- Autonomy 🔋: up to 40 min
+- Max speed 💨: 80 km/h
+- Payload: up to 2 kg
+- Storm and rain resistant
+- Very robust carbon frame
+- Subject Tracking and AI capabilities
+- Available for custom application
+- Encrypted transmission
+- Deployed in 3 clics: TakeOff / GoTo / Action
+- Propeller protection available
 
-**Italic Text in the post will look like:**<br>
-*This text is Italic*
+![Protek35-analog1000-1000x1000-2.jpg](https://github.com/Alex-system/pocpoc.github.io/blob/master/assets/images/Protek35-analog1000-1000x1000-2.jpg?raw=true)
 
-> Quotes on your post will look like this
+## Search and rescue application
 
-`Codes on your post will look like this`
+For his first application, this drone plateform has been used for a costal rescue project. High speed operations, like emergency rescue for exemple, is a perfect match with this forme factor and easy deployment. Coast guards can easily provide assistance to victims drowning in any weather conditions.
 
-**Link in the post will look like:**<br>
-[This is a link](#)
+<iframe width="560" height="315" src="https://youtu.be/ggYLOOgmxbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Bullet list in the post will look like:**
-* Item 1
-* Item 2
-* Item 3
-* Item 4
-* Item 5
+PocPoc provide a service based on an automated UAV for maritime intervention as boat inspection, bathymetry or ports data management.
+The use of automated drone, custom made for these use cases allow any operations be safer, more efficient and doable in any condition.
 
-**Number list in the post will look like:**
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
-5. Item 5
+We already worked with S&R professionals for more than 2 years (SNSM, firemen, Lifeguards) they were heavily involved in the product development.
+We took into account their work procedures, their specific needs and their expertise about the definition of the use case.
+This previous partnership allows PocPoc to offer a very efficient solution for both coastguard and any maritime interventions.
+The close work with sea rescue SNSM bring our attention on an alternate need for a simple to use automated UAV, the UAV could be a decisive tool for operations at sea! We also realise that this powerful and versatile tool could be use in a lot of scenarios other than search and rescue.
 
-**Images in the post will look like:**<br>
-![Test Image](/WhatATheme/assets/images/1280x720%20Placeholder.png)
-
-**Normal text in the post will look like**<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id finibus nisl. Etiam in hendrerit est. Nulla non erat ac lectus interdum lobortis. Vestibulum at mi ex. Mauris nisl mi, venenatis et feugiat nec, finibus porttitor velit. Suspendisse tincidunt lobortis leo, quis tristique tellus iaculis quis. Donec eleifend pulvinar gravida. Proin non lorem eros. Donec sit amet finibus ex, eget vestibulum nunc. Ut ut enim id purus porttitor tristique. Vivamus tincidunt eleifend hendrerit. Proin metus felis, ultrices vel dui in, porta dapibus dui. Sed sagittis ex vitae dui tristique dignissim. Cras vel leo ipsum.
-
-Aenean ac neque et risus mattis accumsan. Sed ac tellus molestie, lacinia ante sit amet, convallis felis. Maecenas aliquet lectus nec euismod auctor. Donec finibus pellentesque tortor, ac efficitur metus suscipit non. Proin diam orci, blandit quis malesuada ac, efficitur a nisl. Mauris eleifend consequat blandit. Sed egestas quam et orci gravida, non euismod metus scelerisque. Curabitur venenatis pellentesque erat commodo pharetra. Fusce id ante nec ipsum fringilla auctor. In justo quam, feugiat placerat eleifend dapibus, luctus et quam. Fusce facilisis erat ut odio convallis viverra et id mauris. Sed vehicula tempus consectetur. Aliquam pharetra, purus non egestas tristique, tellus massa fringilla est, id sagittis tellus urna non mauris. Suspendisse fringilla, velit nec blandit facilisis, ligula ante imperdiet est, et placerat magna sem quis tortor.
-
-Vestibulum vitae fermentum velit, rhoncus egestas orci. Nulla at purus ut orci posuere vulputate. In eget leo diam. In congue in diam nec elementum. Suspendisse fringilla ante nulla, eu tristique orci ultrices eget. Aenean non lorem tellus. Vestibulum tempor metus sit amet tellus feugiat, sit amet consequat lacus ultricies.
-
-Donec imperdiet, lectus eget congue cursus, dolor enim finibus risus, ut molestie lorem tellus non tortor. Donec quam nibh, molestie in dapibus et, efficitur non tortor. Morbi orci tellus, mollis vel mi vitae, auctor lobortis erat. Ut gravida velit eget ligula lacinia, id rhoncus tellus gravida. Maecenas laoreet rutrum consequat. Suspendisse sed nibh dui. Curabitur dictum euismod mollis. Sed egestas libero libero, eu accumsan augue placerat non. Nunc id condimentum orci. Mauris vitae sollicitudin quam.
-
-**Giphy Gifs will look like:**<br>
-<iframe src="https://giphy.com/embed/ZqlvCTNHpqrio" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/laughing-despicable-me-minions-ZqlvCTNHpqrio">via GIPHY</a></p>
-
-**YouTUbe Videos will look like:**<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jTPXwbDtIpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Ready for your tasks
