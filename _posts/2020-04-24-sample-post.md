@@ -28,6 +28,11 @@ Our latest drone platform takes inspiration from modern aviation systems. Offeri
 
 ![Protek35-analog1000-1000x1000-2.jpg](https://github.com/Alex-system/pocpoc.github.io/blob/master/assets/images/Protek35-analog1000-1000x1000-2.jpg?raw=true)
 
+<p align="center">
+  <img width="1000" height="1000" src="![Protek35-analog1000-1000x1000-2.jpg](https://github.com/Alex-system/pocpoc.github.io/blob/master/assets/images/Protek35-analog1000-1000x1000-2.jpg?raw=true)
+">
+</p>
+
 ## Search and rescue application
 
 For his first application, this drone plateform has been used for a costal rescue project. High speed operations, like emergency rescue for exemple, is a perfect match with this forme factor and easy deployment. Coast guards can easily provide assistance to victims drowning in any weather conditions.
