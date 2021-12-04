@@ -32,7 +32,7 @@ Our latest drone platform takes inspiration from modern aviation systems. Offeri
 
 For his first application, this drone plateform has been used for a costal rescue project. High speed operations, like emergency rescue for exemple, is a perfect match with this forme factor and easy deployment. Coast guards can easily provide assistance to victims drowning in any weather conditions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ggYLOOgmxbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ggYLOOgmxbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 PocPoc provide a service based on an automated UAV for maritime intervention as boat inspection, bathymetry or ports data management.
 The use of automated drone, custom made for these use cases allow any operations be safer, more efficient and doable in any condition.
