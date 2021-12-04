@@ -40,7 +40,7 @@ disqus-shortname: PocPoc
 # Name of the Author
 author-name: PocPoc
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: https://github.com/Alex-system/pocpoc.github.io/blob/master/assets/images/logo.png?raw=true
 # 60 Words About the Author
 author-about: PocPoc provide a service based on an automated UAV for maritime intervention as boat inspection, bathymetry or ports data management.The use of automated drone, custom made for these use cases allow any operations be safer, more efficient and doable in any condition.We already worked with S&R professionals for more than 2 years (SNSM, firemen, Lifeguards) they were heavily involved in the product development.We took into account their work procedures, their specific needs and their expertise about the definition of the use case.This previous partnership allows PocPoc to offer a very efficient solution for both coastguard and any maritime interventions. The close work with sea rescue SNSM bring our attention on an alternate need for a simple to use automated UAV, the UAV could be a decisive tool for operations at sea! We also realise that this powerful and versatile tool could be use in a lot of scenarios other than search and rescue.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
