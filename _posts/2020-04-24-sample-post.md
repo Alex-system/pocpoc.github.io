@@ -28,16 +28,11 @@ Our latest drone platform takes inspiration from modern aviation systems. Offeri
 
 ![Protek35-analog1000-1000x1000-2.jpg](https://github.com/Alex-system/pocpoc.github.io/blob/master/assets/images/Protek35-analog1000-1000x1000-2.jpg?raw=true)
 
-<p align="center">
-  <img width="1000" height="1000" src="![Protek35-analog1000-1000x1000-2.jpg](https://github.com/Alex-system/pocpoc.github.io/blob/master/assets/images/Protek35-analog1000-1000x1000-2.jpg?raw=true)
-">
-</p>
-
 ## Search and rescue application
 
 For his first application, this drone plateform has been used for a costal rescue project. High speed operations, like emergency rescue for exemple, is a perfect match with this forme factor and easy deployment. Coast guards can easily provide assistance to victims drowning in any weather conditions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ggYLOOgmxbk?autoplay=1&loop=1&control=0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ggYLOOgmxbk"></iframe>
 
 PocPoc provide a service based on an automated UAV for maritime intervention as boat inspection, bathymetry or ports data management.
 The use of automated drone, custom made for these use cases allow any operations be safer, more efficient and doable in any condition.
@@ -46,5 +41,3 @@ We already worked with S&R professionals for more than 2 years (SNSM, firemen, L
 We took into account their work procedures, their specific needs and their expertise about the definition of the use case.
 This previous partnership allows PocPoc to offer a very efficient solution for both coastguard and any maritime interventions.
 The close work with sea rescue SNSM bring our attention on an alternate need for a simple to use automated UAV, the UAV could be a decisive tool for operations at sea! We also realise that this powerful and versatile tool could be use in a lot of scenarios other than search and rescue.
-
-## Ready for your tasks
